@@ -12,3 +12,16 @@ color:white;
 	border-top-left-radius: 10px;
 	border-top-right-radius: 10px;
 }
+ul li { 
+  
+} 
+#punteada{
+border-style: dotted; 
+  	border-width: 5px; 
+  	border-color: #22DA63; 
+  	background-color: cc3366; 
+  	font-size: 15pt; 
+  	border-bottom-right-radius: 50px;
+
+
+}

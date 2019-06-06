@@ -1,7 +1,14 @@
 .colorcaja{
 margin-top: 20px;
-padding: 10px;
 border: 5px solid #CAEAE6;
 background-color: #3662D1;
 color:white;
+}
+.cl{
+	margin-top:20px;
+	border: 5px solid #969191;
+	border-bottom-right-radius: 20px;
+	border-bottom-left-radius: 20px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
 }
